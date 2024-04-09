@@ -1,0 +1,102 @@
+body{
+    background-color: #e11364 ;
+    color: white;
+}
+
+input {
+
+    background-color: green;
+    color: white;
+    margin-bottom: 10px;
+    border-radius: 5px;
+
+}
+    
+    
+    
+
+
+ main{
+    background-color: #bc105c;
+    text-align: center;
+    margin: 50px;
+    border-radius: 5px;
+    padding-bottom: 30px;
+ }
+ div1{
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    
+
+ }
+
+ h1{
+    background-color: #bc105c;
+    border-left: solid 3px white;
+    border-right: solid 3px white;
+    text-align: center; color: white;
+    margin: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 900;
+    
+    
+}
+
+h3{
+    text-align: left; color: white;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+h4{
+    text-align: right; color: #bc105c;
+    margin-bottom: 1px;
+    padding-top: 20px;
+    padding-right: 30px;
+    color: white;
+}
+
+p{
+    text-align: justify;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 10px;
+}
+
+h2{
+    color: white;
+}
+.mk{
+width: 95%;
+
+}
+.mortal{
+    width: 95%;
+}
+
+h6{
+    background-color: #e96093;
+    text-align: center;
+    color: white;
+    margin: 50px;
+    border: 20px;
+    border-radius: 5px;
+    padding: 20px;
+}
+hr{
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-style: dashed;
+    display: block;
+    
+   
+}
+
